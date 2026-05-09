@@ -46,71 +46,68 @@ AI based real time vehicle detection and overloaded vehicle threat analysis syst
 
 
 
-\## Screenshots
+## Screenshots
 
+### Decision Tree
 
+![Decision Tree](screenshots/decision_tree.png)
 
-\### Decision Tree
+---
 
-decision\_tree.png
+### Decision Tree Confusion Matrix
 
+![Decision Tree Confusion Matrix](screenshots/dt_confusion_matrix.png)
 
+---
 
-\### Decision Tree Confusion Matrix
+### Random Forest Results
 
-dt\_confusion\_matrix.png
+![Random Forest Results](screenshots/Rfa_results.png)
 
+---
 
+### Random Forest Confusion Matrix
 
-\### Random Forest Results
+![Random Forest Confusion Matrix](screenshots/rf_confusion_matrix.png)
 
-Rfa\_results.png
+---
 
+### Random Forest Decision Tree
 
+![Random Forest Decision Tree](screenshots/rfa_dt2.png)
 
-\### Random Forest Confusion Matrix
+---
 
-rf\_confusion\_matrix.png
+### SVM Results
 
+![SVM Results](screenshots/SVM_results.png)
 
+---
 
-\### Random Forest Decision Tree
+### SVM Confusion Matrix
 
-rfa\_dt2.png
+![SVM Confusion Matrix](screenshots/svm_confusion_matrix.png)
 
+---
 
+### Model Comparison
 
-\### SVM Results
+![Model Comparison](screenshots/model_comparison.png)
 
-SVM\_results.png
+---
 
+### Detection Test
 
+![Detection Test](screenshots/detection_test.png)
 
-\### SVM Confusion Matrix
+---
 
-svm\_confusion\_matrix.png
+### Real Time Testing
 
+![Real Time Testing](screenshots/real_time_result.jpeg)
 
+---
 
-\### Model Comparison
+### Overload Detection
 
-model\_comparison.png
-
-
-
-\### Detection Test
-
-detection\_test.png
-
-
-
-\### Real Time Testing
-
-real\_time\_result.jpeg
-
-
-
-\### Overload detection
-
-overload\_detection.jpeg
-
+![Overload Detection](screenshots/overload_detection.jpeg)
