@@ -111,3 +111,9 @@ AI based real time vehicle detection and overloaded vehicle threat analysis syst
 ### Overload Detection
 
 ![Overload Detection](screenshots/overload_detection.jpeg)
+---
+
+## Contributors
+
+- [Sidhant Katyayan](https://github.com/sidhantkatyayan-cloud)
+- [Ruchithakommineni](https://github.com/Ruchithakommineni)
